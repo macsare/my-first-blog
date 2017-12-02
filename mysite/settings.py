@@ -25,7 +25,7 @@ SECRET_KEY = '^w*2h814f5ru74ti7&z*d=y4rzp6dmj1@rf-bbl+73mc(c0kh6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["http://eszterm.pythonanywhere.com/"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
